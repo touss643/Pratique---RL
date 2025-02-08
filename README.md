@@ -1,1 +1,1 @@
-# Pratique---RL
+# Quelques cas pratiques de régression linéaire
